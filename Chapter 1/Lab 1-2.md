@@ -1,6 +1,6 @@
 # Lab 1-1
 
-We are given a potentially malicious .exe and .dll file and tasked to fingerprint them. Since this is the first chapter, we'll just be doing basic static
+We are given a potentially malicious .exe file and tasked to fingerprint it. Since this is the first chapter, we'll just be doing basic static
 analysis.
 
 **1. Upload the Lab01-02.exe file to http://www.VirusTotal.com/. Does it match any existing antivirus definitions?**
