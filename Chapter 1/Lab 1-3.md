@@ -69,7 +69,7 @@ To unpack, we will run `unipacker`, enter `0` for a new project and open our fil
 detected, and an unpacker has been prepared:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86139991/161682016-7cef1bba-5f9c-4ab6-a9b3-fae500c64361.PNG"/>
+  <img src="https://user-images.githubusercontent.com/86139991/162032294-21e684cb-e100-4d09-86a3-472e9695df74.PNG"/>
 </p>
 
 <p align="center">
