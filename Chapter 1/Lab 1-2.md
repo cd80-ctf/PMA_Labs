@@ -77,7 +77,7 @@ Running `upx` with the `-d` flag to decompress and the `-o` flag to indicate an 
   <b>Figure 5:</b> UPX allows us to easily extract the malware into a more readable form
 </p>
 
-**4. Do any imports hint at this program’s functionality? If so, which imports are they and what do they tell you?**
+**3. Do any imports hint at this program’s functionality? If so, which imports are they and what do they tell you?**
 
 Now that we've unpacked the malware, we can use `strings` and `PEView` to get useful information:
 
